@@ -10,21 +10,21 @@ The Student Grade Tracker is a simple yet powerful tool that performs the follow
 📋 Display a complete summary report of all students.
 💻 Choose between a console-based or GUI-based interface.
 
-✨ Features
+✨ Features:-
 
 User-friendly interface (console or GUI).
 Real-time calculation of scores.
 Option to highlight grades with colors (GUI version).
 Optional export to CSV for saving data.
 
-🛠 Technologies Used
+🛠 Technologies Used:-
 
 Java (Core Java).
 Java Swing (for GUI implementation).
 Array / ArrayList for data storage.
 File I/O (for CSV export).
 
-📈 Example Grading Scale
+📈 Example Grading Scale:-
 | Grade | Range (%) |
 | ----- | --------- |
 | A     | 90 - 100  |
